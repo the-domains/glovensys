@@ -1,0 +1,28 @@
+name: Glovensys
+favicon: null
+layout_spectrum: 0.8074949521105736
+typography_spectrum: 0.015020915074273944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9362696530297399
+  lightness: 0.8447283885907382
+  saturation: 0.6774972674902529
+  rhythmicContrast: 0.3813308996614069
+purpose: []
